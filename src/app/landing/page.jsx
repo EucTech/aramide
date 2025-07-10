@@ -322,12 +322,11 @@ const LandingPage = () => {
             delay={400}
             className=""
           >
-             <h1
-                
-                className={`text-[#C8AC80] text-[26px] md:text-[30px] text-left lg:pl-3 mt-3 font-bold`}
-              >
-                About Aramide
-              </h1>
+            <h1
+              className={`text-[#C8AC80] text-[26px] md:text-[30px] text-left lg:pl-3 mt-3 font-bold`}
+            >
+              About Aramide
+            </h1>
             <p
               className={`text-[14px] md:text-[15px] text-[#fff] font-normal lg:pl-3 ${dm_sans.className}`}
             >
@@ -340,9 +339,9 @@ const LandingPage = () => {
             <p
               className={`text-[14px] md:text-[15px] text-[#fff] font-normal lg:pl-3 ${dm_sans.className}`}
             >
-              Passionate about Africa and committed to the continent&apos;s progress,
-              Aramide brings people together across sectors and cultures. As a
-              seasoned networking expert, she convenes dynamic
+              Passionate about Africa and committed to the continent&apos;s
+              progress, Aramide brings people together across sectors and
+              cultures. As a seasoned networking expert, she convenes dynamic
               communities—ranging from business networks to Francophone and
               faith-based groups.
             </p>
@@ -350,8 +349,8 @@ const LandingPage = () => {
               className={`text-[14px] md:text-[15px] text-[#fff] font-normal lg:pl-3 ${dm_sans.className}`}
             >
               Multilingual and deeply connected, she also shares her insights
-              through a weekly article focused on purposeful and
-              effective networking.
+              through a weekly article focused on purposeful and effective
+              networking.
             </p>
           </Fade>
 
@@ -444,13 +443,13 @@ const LandingPage = () => {
                   <p
                     className={`w-full text-[#1A1313] font-normal text-center  text-[15px] lg:text-[16px]  ${dm_sans.className}`}
                   >
-                    Renowned for her thought leadership and articulations,
-                    Aramide is in demand as a keynote Speaker, Panelist and
-                    Moderator, where she provides authentic and insightful
-                    opinions on a variety of thematic areas-from development and
-                    entreprenuership, to innovation and investment. she is
-                    passionate about emerging economies delivering insightful
-                    talks on various global platforms such as:
+                    Renowned for her thought leadership and articulate nature,
+                    Aramide is a sought-after keynote speaker, moderator, and
+                    panelist on the global stage. She offers insightful and
+                    authentic perspectives on a wide range of topics, including
+                    technology, development, investment, and sustainability.
+                    Passionate about emerging economies, she delivers impactful
+                    talks across various platforms, such as:
                   </p>
                 </Fade>
               </div>
@@ -527,19 +526,14 @@ const LandingPage = () => {
                       <span className="text-[#c8ac80] text-[24px]">
                         <BsCheck2Square />
                       </span>{" "}
-                      Entrepreneurship
+                       Entrepreneurship & Job creation 
+
                     </p>
                     <p className="flex items-center gap-4">
                       <span className="text-[#c8ac80] text-[24px]">
                         <BsCheck2Square />
                       </span>{" "}
                       Investment
-                    </p>
-                    <p className="flex items-center gap-4">
-                      <span className="text-[#c8ac80] text-[24px]">
-                        <BsCheck2Square />
-                      </span>{" "}
-                      Job Creation
                     </p>
                     <p className="flex items-center gap-4">
                       <span className="text-[#c8ac80] text-[24px]">
@@ -557,19 +551,19 @@ const LandingPage = () => {
                       <span className="text-[#c8ac80] text-[24px]">
                         <BsCheck2Square />
                       </span>{" "}
-                      Technology & Artificial Intelligence
+                      Technology & Innovation
                     </p>
                     <p className="flex items-center gap-4">
                       <span className="text-[#c8ac80] text-[24px]">
                         <BsCheck2Square />
                       </span>{" "}
-                      Women Empowerment
+                      Women & Youth Development
                     </p>
                     <p className="flex items-center gap-4">
                       <span className="text-[#c8ac80] text-[24px]">
                         <BsCheck2Square />
                       </span>{" "}
-                      Youth Development
+                      Sustainability
                     </p>
                   </div>
                 </Fade>
