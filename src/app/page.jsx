@@ -13,7 +13,7 @@ export default function Home() {
         className="w-[8em] lg:hidden block mr-auto ml-14"
       />
       <Image
-        src={"/images/big-woman.jpeg"}
+        src={"/aaa.jpg"}
         width={743}
         height={800}
         alt="AramideAbe"

@@ -165,6 +165,31 @@ const AboutPage = () => {
                   </Link>
                 </div>
               </div>
+
+              <div className="flex items-center gap-4">
+                <Image
+                  src="/w7.webp"
+                  alt="image"
+                  width={1000}
+                  height={1000}
+                  className="w-[100px] rounded"
+                />
+                <div className="flex flex-col gap-2">
+                  {/* <h1
+                    className={`text-[#fff] font-semibold pb-1 text-[16px] md:text-[18px] ${dm_sans.className}`}
+                  >
+                    Networking Newsletter on Linkedin
+                  </h1> */}
+
+                  <Link href="https://guardian.ng/guardian-woman/%e2%81%a0aramide-abe-africas-entrepreneurial-scene-needs-partnership-and-access/">
+                    <p
+                      className={`text-[#fff] text-[14px] underline ${dm_sans.className}`}
+                    >
+                      Read more
+                    </p>
+                  </Link>
+                </div>
+              </div>
             </div>
           </div>
         </Fade>
